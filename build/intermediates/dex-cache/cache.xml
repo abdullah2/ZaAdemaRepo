@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/muhamed/Downloads/SandroLegend/org.eclipse.paho.android.service.sample-withSource/app/build/intermediates/exploded-aar/org.eclipse.paho.android.service.sample-withSource/PahoAndroidService/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8ae48a8c70b3920d291f092e864cc24c0e83bfb3">
+        <dex dex="/home/muhamed/Downloads/SandroLegend/org.eclipse.paho.android.service.sample-withSource/app/build/intermediates/pre-dexed/debug/classes-e94329cc8c551f78ff78707ab3a0ea0dc5de2c8c.jar" />
+    </item>
+    <item
+        jar="/home/muhamed/Downloads/SandroLegend/org.eclipse.paho.android.service.sample-withSource/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/muhamed/Downloads/SandroLegend/org.eclipse.paho.android.service.sample-withSource/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-05e9682678525e8592a8d22e5f4272e4fe3fbfa7.jar" />
+    </item>
+    <item
+        jar="/home/muhamed/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.client.mqttv3/1.0.2/11752d3f24d1a9deda4533a7ca18d8496417ceeb/org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="11752d3f24d1a9deda4533a7ca18d8496417ceeb">
+        <dex dex="/home/muhamed/Downloads/SandroLegend/org.eclipse.paho.android.service.sample-withSource/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.client.mqttv3-1.0.2-6514afc0b4d8a4f2b72d47b8dcdb05d1a1ae2c08.jar" />
+    </item>
+    <item
+        jar="/home/muhamed/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/muhamed/Downloads/SandroLegend/org.eclipse.paho.android.service.sample-withSource/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-f2ed3877be5b014e84a040a5cc5029f603b439fd.jar" />
+    </item>
+    <item
+        jar="/home/muhamed/Downloads/SandroLegend/org.eclipse.paho.android.service.sample-withSource/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/muhamed/Downloads/SandroLegend/org.eclipse.paho.android.service.sample-withSource/app/build/intermediates/pre-dexed/debug/classes-b5579e4fda91d4c03ceeb7b94d5ff1128046780f.jar" />
+    </item>
+
+</items>
